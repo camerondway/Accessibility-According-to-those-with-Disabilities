@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## Accessibility According to those with Disabilities
 
-You can use the [editor on GitHub](https://github.com/camerondway/Accessibility-According-to-those-with-Disabilities/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[This](https://axesslab.com/accessibility-according-to-pwd/) This all started with a tweet asking those on the internet who have disabilities what can be a struggle on the web.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Lack of captions
 
-### Markdown
+ ![Lack of Captions](https://lh5.googleusercontent.com/WDjWkAZYT25dBgm7ldPQboi6-vDsF3bz-qzwi9bc4OSegayVKwVIpNZCiyC6jz0moF01oTjFSJqlYLY=w1279-h1080-rw)
+- Videos without captions(subtitles) was said the most.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ ![Motion, animations, cluttered pages](https://lh5.googleusercontent.com/AjiXzZuwbUu3eXOk9mdEyO0SAm8cdrx67-4uEBEPjlg3FBYUreWzHfq5ijSKuMal6ik1h_bpYCwswv4=w1279-h1080)
+- Motion, animations, and cluttered pages.
 
 ```markdown
 Syntax highlighted code block
