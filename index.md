@@ -4,11 +4,11 @@
 
 ### Lack of captions
 
-![Lack of Captions](https://lh5.googleusercontent.com/aCzN4pbVqGEygPzQ6BVUkkVcOoVuW2wn2qoRurql4r75qtTaOmuUnypMLWafKR11GMFJaWLNLmD593s=w1279-h1080-rw)
+![Lack of Captions](/assets/images/animations.png)
 
 ### Motion, animations, cluttered pages
 
-![Motion, animations, cluttered pages](https://lh5.googleusercontent.com/AjiXzZuwbUu3eXOk9mdEyO0SAm8cdrx67-4uEBEPjlg3FBYUreWzHfq5ijSKuMal6ik1h_bpYCwswv4=w1279-h1080)
+![Motion, animations, cluttered pages](/assets/images/captions.png)
 
 ### Wall of text
 
