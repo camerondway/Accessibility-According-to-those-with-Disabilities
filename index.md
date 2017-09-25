@@ -12,21 +12,39 @@
 
 ### Wall of text
 
+![Wall of text](/assets/images/walloftext.png)
+
 ### Small font size
+
+![Small font size](/assets/images/smallfontsize.png)
 
 ### Zooming Problems
 
+![Zooming problems](/assets/images/zooming-problems.png)
+
 ### Low contrasts and image of text
+
+![Low Contrast](/assets/images/low-contrast.png)
 
 ### Bright color schemes
 
+![Bright Color Schemes](/assets/images/bright-color-schemes.png)
+
 ### Relying only on color
+
+![Relying only on color](/assets/images/rely-on-color.png)
 
 ### Mouse-focused sites
 
+![Mouse-foucused sites](/assets/images/rely-on-color.png)
+
 ### Too small touch-targets
 
+![Touch targets](/assets/images/touch-targets.png)
+
 ### Captchas
+
+![Captchas](/assets/images/captchas.png)
 
 ### Take aways
 - Web accessibility is about so much more than just blind people with screen readers.
