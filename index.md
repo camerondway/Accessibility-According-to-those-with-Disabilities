@@ -57,6 +57,8 @@
 
 ![Mouse-foucused sites](/assets/images/rely-on-color.png)
 
+[No Mouse Challenge](http://nomouse.org/)
+
 ### Too small touch-targets
 
 ![Touch targets](/assets/images/touch-targets.png)
