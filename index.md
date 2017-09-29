@@ -4,13 +4,18 @@
 
 ### Lack of captions
 
-![Lack of Captions](/assets/images/animations.png)
+![Lack of Captions](/assets/images/captions.png)
+
+* Videos without captions(subtitles) was said the most.
+  * Videos without captions can exclude users who are deaf or hard of hearing and could also affect users who forgot headphones on the train, or a place where sound can’t be played aloud. Sometimes even autistic people rely on captions if their senses become overloaded. It can be confusing if a person is talking off screen for them.
+  * Do not rely on Youtube's auto subtitling, it isn’t completely accurate yet.
+
 
 [Example](http://iuhealth.org/48hour/)
 
 ### Motion, animations, cluttered pages
 
-![Motion, animations, cluttered pages](/assets/images/captions.png)
+![Motion, animations, cluttered pages](/assets/images/animations.png)
 
 [Motion example](https://realaccess.polycom.com/Account/Login?ReturnUrl=%2F)
 
