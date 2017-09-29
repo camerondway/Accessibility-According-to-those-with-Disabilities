@@ -1,6 +1,6 @@
 ## Accessibility According to those with Disabilities
 
-[This](https://axesslab.com/accessibility-according-to-pwd/) This all started with a tweet asking those on the internet who have disabilities what can be a struggle on the web.
+[This](https://axesslab.com/accessibility-according-to-pwd/) all started with a tweet asking those on the internet who have disabilities what can be a struggle on the web.
 
 ### Lack of captions
 
